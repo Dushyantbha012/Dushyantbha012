@@ -1,5 +1,3 @@
-<div align="center">
-  
 # Hi there! I'm Dushyant Bhardwaj 👋
 ### Frontend Developer | UI/UX Enthusiast | Problem Solver
 
@@ -11,8 +9,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dushyantbha012&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
 </p>
-
-</div>
 
 ## 🚀 About Me
 
@@ -53,6 +49,8 @@ const dushyant = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ### Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
