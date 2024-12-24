@@ -14,7 +14,7 @@
 
 ```javascript
 const dushyant = {
-    role: "Frontend Developer",
+    role: "Full Stack Developer",
     code: ["JavaScript", "TypeScript", "Python", "C++", "Rust", "Go"],
     currentFocus: "Creating beautiful user experiences",
     askMeAbout: ["Web Dev", "Tech", "UI/UX", "Problem Solving"],
