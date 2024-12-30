@@ -68,9 +68,6 @@ const dushyant = {
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/dushyant-bhardwaj-3450281b3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://www.leetcode.com/dushyantbha012" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
