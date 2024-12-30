@@ -2,7 +2,6 @@
 ### Frontend Developer | UI/UX Enthusiast | Problem Solver
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dushyantbha012&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/dushyantbha012)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dushyant-bhardwaj-3450281b3)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://www.leetcode.com/dushyantbha012)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:dushyantbha012@gmail.com)
 
